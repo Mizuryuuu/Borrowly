@@ -1,3 +1,12 @@
+![Tampilan UI](assets/Screenshot_Onboarding.jpeg)
+![Tampilan UI](assets/Screenshot_Login.jpeg)
+![Tampilan UI](assets/Screenshot_Home.jpeg)
+![Tampilan UI](assets/Screenshot_Status.jpeg)
+![Tampilan UI](assets/Screenshot_Profile.jpeg)
+![Tampilan UI](assets/Screenshot_ProductDetail.jpeg)
+![Tampilan UI](assets/Screenshot_AddProduct.jpeg)
+![Tampilan UI](assets/Screenshot_MyProduct.jpeg)
+
 # Borrowly
 
 Borrowly adalah aplikasi platform peminjaman barang yang memudahkan pengguna untuk meminjamkan atau meminjam barang dari orang lain dengan manajemen yang terorganisir.
