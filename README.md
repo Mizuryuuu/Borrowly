@@ -1,11 +1,8 @@
-![Tampilan UI](assets/Screenshot_Onboarding.jpeg)
-![Tampilan UI](assets/Screenshot_Login.jpeg)
-![Tampilan UI](assets/Screenshot_Home.jpeg)
-![Tampilan UI](assets/Screenshot_Status.jpeg)
-![Tampilan UI](assets/Screenshot_Profile.jpeg)
-![Tampilan UI](assets/Screenshot_ProductDetail.jpeg)
-![Tampilan UI](assets/Screenshot_AddProduct.jpeg)
-![Tampilan UI](assets/Screenshot_MyProduct.jpeg)
+### 📱 Preview UI
+
+<img src="assets/Screenshot_Onboarding.jpeg" width="200"> <img src="assets/Screenshot_Login.jpeg" width="200"> <img src="assets/Screenshot_Home.jpeg" width="200"> 
+<img src="assets/Screenshot_Status.jpeg" width="200"> <img src="assets/Screenshot_Profile.jpeg" width="200"> <img src="assets/Screenshot_ProductDetail.jpeg" width="200">
+<img src="assets/Screenshot_AddProduct.jpeg" width="200"> <img src="assets/Screenshot_MyProduct.jpeg" width="200">
 
 # Borrowly
 
