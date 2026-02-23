@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685687596628",
+    "project_id": "borrowly-c6fbd",
+    "storage_bucket": "borrowly-c6fbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685687596628:android:1a71f9c0597395410cefc1",
+        "android_client_info": {
+          "package_name": "dev.dodo.borrowly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iW-ijOiC4RzyrMMKfKAN9GbrOifSAp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
