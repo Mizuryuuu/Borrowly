@@ -11,8 +11,6 @@ Borrowly adalah aplikasi Android yang dirancang untuk memudahkan proses peminjam
 - 📦 Tambah & Kelola Barang
 - 🔍 Jelajahi Barang Tersedia
 - 🏷 Kategori Barang
-- ☁ Cloud Storage (Firebase Firestore)
-- 🖼 Upload Gambar
 
 ---
 
